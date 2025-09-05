@@ -12,15 +12,13 @@ A modern, responsive portfolio website featuring a homepage, projects section, c
 - 📨 Contact form with real-time validation (no backend)
 - 🌗 Dark/Light mode toggle
 - 📱 Fully responsive design (desktop & mobile)
-- 🎨 Smooth animations and transitions
-- 📦 Uses hardcoded JSON or API (GitHub or FakeStoreAPI) for project data
 
 ---
 ## 🔧 Tech Stack
 
 - HTML5
-- CSS3 / SCSS (optional)
-- JavaScript (Vanilla JS or framework of your choice)
+- CSS3 
+- JavaScript (Vanilla JS and framework ReactJS)
 - JSON for project data (or public API)
 ****
 
@@ -31,12 +29,8 @@ All fields are required
 Email field is validated using regex
 Shows a success message on submit (client-side only)
 
-
-
-
-
 ---
 
 ## How to run 
-npm install
-npm run dev
+1. npm install
+2. npm run dev
