@@ -37,4 +37,6 @@ Shows a success message on submit (client-side only)
 
 ---
 
-## 📁 Folder Structure
+## How to run 
+npm install
+npm run dev
