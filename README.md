@@ -166,8 +166,6 @@ DELETE	/users/:id	Delete user by ID	Admin
 
 1. Clone the repo:
 
-git clone https://github.com/your-repo/auth-rbac-api.git
-cd auth-rbac-api
 
 
 2. Install dependencies:
